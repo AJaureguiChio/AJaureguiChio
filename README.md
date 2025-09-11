@@ -2,6 +2,8 @@
 
 Me llamo Alberto Jairzinho Jáuregui Chio, actualmente soy un estudiante de 6to semestre de la carrera de Ingeniería en Tecnología de Software, el cual estudia en la Facultad de Ingeniería Mecánica y Electríca de la Universidad Autónoma de Nuevo Leon.
 
+---
+
 # Educación
 
 ## Historial Académico
@@ -21,13 +23,10 @@ Me llamo Alberto Jairzinho Jáuregui Chio, actualmente soy un estudiante de 6to 
 Ingeniería Mecánica y Eléctrica
 
 ---
-# Intereses
-
-Tengo intereses en la programación Full Stack centrado en desarrollo web y actualmente estoy estudiando JavaScript y React
 
 # Conocimientos
 
-# Idiomas
+## Idiomas
 
 - Ingles Avanzado (C1)
 
@@ -44,7 +43,13 @@ Tengo intereses en la programación Full Stack centrado en desarrollo web y actu
 - GitHub
 - MySQL
 
-## Hobbies
+---
+
+### Intereses
+
+Tengo intereses en la programación Full Stack centrado en desarrollo web y actualmente estoy estudiando JavaScript y React
+
+### Hobbies
 
 Tengo un hobbie por la lectura, matemáticas, libros de fantasía y videojuegos
 
